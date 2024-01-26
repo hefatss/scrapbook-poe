@@ -13,6 +13,18 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        'dmserif': ['DM Serif Text', 'serif']
+      },
+      colors: {
+        'brown' : {
+          100 : '#7c654d',
+          300 : '#725b42',
+          500 : '#675038',
+          700 : '#563d23',
+          900 : '#492e12'
+        }
+      }
     },
   },
   plugins: [],
