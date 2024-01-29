@@ -33,8 +33,8 @@ const MusicPlayer = () => {
                 <div className='font-dmserif text-brown-700 text-2xl text-center -mb-3'>
                     Welcome to
                 </div>
-                <div className='font-dmserif text-brown-700 text-6xl text-center mb-5'>
-                    Extsocial Class
+                <div className='uppercase font-dmserif text-brown-700 text-6xl text-center mb-5'>
+                    Extsocial
                 </div>
                 <div
                     className='bg-brown-100 px-10 py-3 rounded-full hover:bg-brown-300 cursor-pointer'
