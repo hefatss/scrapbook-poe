@@ -4,8 +4,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <div className="bg-gradient-to-b from-[#f7f1d9] to-[#bbaa87] bg-cover">
-        {children}
+    <div className="bg-gradient-to-b from-[#181C14] to-[#3C3D37] bg-cover">
+      {children}
     </div>
   );
 }

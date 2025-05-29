@@ -15,7 +15,7 @@ const Members = () => {
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1, delay: 0.1 }}
-                className='font-dmserif text-brown-700 text-5xl md:text-6xl text-center mb-10 mt-20'>
+                className='font-dmserif text-white text-5xl md:text-6xl text-center mb-10 mt-20'>
                 Members
             </motion.div>
 
@@ -35,10 +35,10 @@ const Members = () => {
                         />
 
                         <div className='text-center mt-3'>
-                            <p className='text-brown-700 italic'>
+                            <p className='text-white italic'>
                                 &quot;{member.quote}&quot;
                             </p>
-                            <p onClick={() => handleClickInstagram(member.instagram)} className='text-brown-700 font-bold cursor-pointer'>
+                            <p onClick={() => handleClickInstagram(member.instagram)} className='text-white font-bold cursor-pointer'>
                                 {member.instagram}
                             </p>
                         </div>
