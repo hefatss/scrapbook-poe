@@ -1,9 +1,9 @@
 export const MEMBERS = [
     {
         name: 'Agni Sopita',
-        quote: '',
+        quote: 'jangan bandingkan langkahmu dengan orang lain, fokus saja pada perjalananmu',
         instagram: '@',
-        images: '/images/members/'
+        images: '/images/members/agni.png'
     },
     {
         name: 'Ayu Maryamah',
