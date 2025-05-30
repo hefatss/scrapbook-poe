@@ -1,206 +1,122 @@
 export const MEMBERS = [
     {
-        name: 'Aulia Nahdha as lana',
-        quote: 'Gapapa kecil yang penting bukan cegil',
-        instagram: '@alanahdha',
-        images: '/images/members/aulia-nadha.png'
+        name: 'Agni Sopita',
+        quote: '',
+        instagram: '@',
+        images: '/images/members/'
     },
     {
-        name: 'Dhea Mustikasani',
-        quote: "Even if I like fourth, I'd still be number one",
-        instagram: '@deamstksn._',
-        images: '/images/members/dhea-mustikasani.png'
+        name: 'Ayu Maryamah',
+        quote: '',
+        instagram: '@',
+        images: '/images/members/'
     },
     {
-        name: 'Nuha Rizki',
-        quote: 'Masuk dengan kegagalan, keluar dengan kemenangan. amen',
-        instagram: '@nharizee',
-        images: '/images/members/nuha-rizki.png'
+        name: 'Chindy Desita Julia Puspa',
+        quote: 'si jaka makan mie (cakep), semoga selama blk ken bi hepi wit mi',
+        instagram: '@sindidsita',
+        images: '/images/members/chindy.png'
     },
     {
-        name: 'Ridwan Akbar',
-        quote: 'Dear God, If today I lose my hope, please remind me that your plans are better than my dreams.',
-        instagram: '@rdwnnnma_',
-        images: '/images/members/ridwan-akbar.png'
+        name: 'Dinda Rodiyah',
+        quote: 'Jangan terlalu berfokus jadi manusia hebat,tapi jadilah juga manusia yang bermanfaat',
+        instagram: '@dindardyh',
+        images: '/images/members/dinda.png'
     },
     {
-        name: 'Bagjaaaa',
-        quote: 'Kalo gabisa ambil hatinya ambil aja hikmahnya',
-        instagram: '@nando.bgj',
-        images: '/images/members/bagja.png'
+        name: 'Farrah Shazia',
+        quote: 'jaka popo? siroyo💋',
+        instagram: '@farjoenssi',
+        images: '/images/members/farrah.png'
     },
     {
-        name: 'Syaira Carenina',
-        quote: 'Kejar mah cita-cita bukan yang ga cinta kidz',
-        instagram: '@syaaalove',
-        images: '/images/members/syaira-carenina.png'
+        name: 'Firda Fauziah Rasyidah',
+        quote: 'Buah Belewah di jadiin Urab Bismillah jadi istri orang Arab',
+        instagram: '@firdaarrasyidi',
+        images: '/images/members/firda.png'
     },
     {
-        name: 'Tiyana Ramawati',
-        quote: 'Sometimes every human feels failure, but in that failure there is success waiting at the end',
-        instagram: '@tiannaaarmsyti',
-        images: '/images/members/tiyana-ramawati.png'
+        name: 'Nazzwa Azzahra',
+        quote: "don't turn off my light then complain about my darkness",
+        instagram: '@',
+        images: '/images/members/nazwa.png'
     },
     {
-        name: 'Melia Putri',
-        quote: 'Tuhan maha tau, manusia so tau',
-        instagram: '@llyaa.zy',
-        images: '/images/members/melia-putri.png'
+        name: 'Nur Oktavionita',
+        quote: 'Barang siapa yg bekerja keras biar kaya di hari senin, niscaya besok akan menemukan hari selasa',
+        instagram: '@noktavionitaa',
+        images: '/images/members/nita.png'
     },
     {
-        name: 'Dhea Anggia Pratiwi',
-        quote: 'Life will always be filled with stressful moments. But you can always choose to see something positive through it all',
-        instagram: '@dheaanggiaprat',
-        images: '/images/members/dhea-anggia.png'
+        name: 'Salsa Farida',
+        quote: 'info loker',
+        instagram: '@',
+        images: '/images/members/salsa.png'
     },
     {
-        name: 'Moch Fauzan',
-        quote: 'Pria tanpa wanita akan tetap jadi raja, tetapi pria tanpa ibu seperti boneka tanpa pencipta',
-        instagram: '@mahammad.fauzan',
-        images: '/images/members/moch-fauzan.png'
+        name: 'Salwa Trisna Apsari',
+        quote: 'tidak ada kata kata, lanjut part 2',
+        instagram: '@salwaaatr',
+        images: '/images/members/salwa.png'
     },
     {
-        name: 'Faizan Ahmad Irshad',
-        quote: 'Jika seseorang melemparmu dengan batu, balaslah dengan bunga.. sekalian dengan potnya',
-        instagram: '@faizanahmadirshad',
-        images: '/images/members/faizan-ahmad.png'
+        name: 'Syifa Amalia',
+        quote: '',
+        instagram: '@',
+        images: '/images/members/syifa.png'
     },
     {
-        name: 'Pradipta Refliansyah Pratama',
-        quote: 'Mencintai akan terasa lebih lengkap bila dicintai. Akan tetapi lebih baik sadar diri bahwa dia tak pantas untuk kau cintai',
-        instagram: '@pradipta.pratama.14',
-        images: '/images/members/pradipta-refliansyah.png'
+        name: 'Vira Prananda Putri',
+        quote: 'Hari Kamis makan Ikan Tongkol Hai Manis kapan kita slipkol',
+        instagram: '@viraprnnda_',
+        images: '/images/members/vira.png'
     },
     {
-        name: 'Radith',
-        quote: 'Kamu terlalu berkelas untuk aku yang suka tidur di kelas',
-        instagram: '@radithhee',
-        images: '/images/members/radith.png'
+        name: 'Rinda Raiin',
+        quote: 'Becanda boleh, serius apalagi Tapi boong HAHAHAHA 🤙',
+        instagram: '@',
+        images: '/images/members/rindi.png'
     },
     {
-        name: 'Sania',
-        quote: 'Tidak ada sesuatu yang bisa dicapai dengan sekali mencoba. Tetaplah berjuang dan berusaha.',
-        instagram: '@sndwt05_',
-        images: '/images/members/sania.png'
+        name: 'Agus Budi Darmawan',
+        quote: 'Hidup itu banyak cobaan, Kalo banyak saweran itu dangdutan',
+        instagram: '@agusb_d',
+        images: '/images/members/agus.png'
     },
     {
-        name: 'Aly Syawal',
-        quote: "Don't be afraid to face challenges keep going, always keep going and you will be stronger than all",
-        instagram: '@aly_syawal',
-        images: '/images/members/aly-syawal.png'
+        name: 'Jaka Ramdani',
+        quote: 'Jika kamu punya masalah, tenang..., itu masalahmu, bukan masalahku',
+        instagram: '@jakaramdan1',
+        images: '/images/members/jaka.png'
     },
     {
-        name: 'Fidya Syahida Rayani',
-        quote: "All of us deserve to get our own happiness. Go find yours, 'cause I found mine, and it’s Jeon Wonwoo.",
-        instagram: '@fidyasy',
-        images: '/images/members/fidya-syahida.png'
+        name: 'Muhammad Zikri',
+        quote: 'semua orang berhasil kerena dia gagal dulu.. cuman gagal 1 kali masa udh nyerah.. bangunlah kejar impianmu.',
+        instagram: '@dzikriyjeger',
+        images: '/images/members/zikri.png'
     },
     {
-        name: 'Fitrianti',
-        quote: 'Walaupun hidup amburadul harus tetep aju nice',
-        instagram: '@fftrianti',
-        images: '/images/members/fitrianti.png'
+        name: 'Naufal Syarif Azhari',
+        quote: 'Badan yang pernah diterpa badai tidak akan runtuh hanya karena diterpa gerimis, jadi hadapi badaimu',
+        instagram: '@naufalsyrf',
+        images: '/images/members/naufal.png'
     },
     {
-        name: 'Resti',
-        quote: 'Jangan tersenyum hanya saat bahagia tapi tersenyumlah untuk bahagia',
-        instagram: '@resstianaa_',
-        images: '/images/members/resti.png'
+        name: 'Rafi Aji Saputra',
+        quote: 'JAWA JAWA JAWA JAWA, HIDUP JAWA',
+        instagram: '@hefatss',
+        images: '/images/members/rapi.png'
     },
     {
-        name: 'Kevin Darmawan',
-        quote: 'Pengen jadi tepung serba guna biar ga jadi serba salah',
-        instagram: '@kevinndrmwn',
-        images: '/images/members/kevin-darmawan.png'
+        name: 'Zidane Rizky Saputra',
+        quote: 'Harapan adalah lentera di tengah kegelapan',
+        instagram: '@zidane_rizkys9',
+        images: '/images/members/zidane.png'
     },
     {
-        name: 'Nezha Tiara Hapsari',
-        quote: "Hannah Montana said nobody's perfect, but here I am.",
-        instagram: '@softieepiess',
-        images: '/images/members/nezha-tiara.png'
+        name: 'Hafidz Naufal Farras',
+        quote: '500 Ribu udah termasuk kandang bisa nego, minat? DM',
+        instagram: '@hafidznoufal_',
+        images: '/images/members/hafidz.png'
     },
-    {
-        name: 'Fitri Luthfiah',
-        quote: 'Hidup itu pahit, yang manis itu senyuman nanami',
-        instagram: '@neverrilz',
-        images: '/images/members/fitri-luthfiah.png'
-    },
-    {
-        name: 'Sella',
-        quote: 'Kejarlah mimpimu sampai ke negeri senkuuu',
-        instagram: '@zxchanmx',
-        images: '/images/members/sella.png'
-    },
-    {
-        name: 'Juandiny',
-        quote: 'Sekolah itu seru, kalau sekolahnya di Wattpad',
-        instagram: '@yjndin',
-        images: '/images/members/juandiny.png'
-    },
-    {
-        name: 'Sarrah',
-        quote: 'Lee Jeno is higher than my grades',
-        instagram: '@sarahptrynn',
-        images: '/images/members/sarrah.png'
-    },
-    {
-        name: 'Nitha',
-        quote: 'Stressed, blessed, Haechan obsessed',
-        instagram: '@nithaalianda',
-        images: '/images/members/nitha.png'
-    },
-    {
-        name: 'Aliya Rahma',
-        quote: 'Ada 3 kunci kesuksesan. doa, usaha, orang dalam',
-        instagram: '@aliyarhmz_',
-        images: '/images/members/aliya-rahma.png'
-    },
-    {
-        name: 'Camelia Siti Azzahra',
-        quote: 'Jika tidak ada bahu untuk bersandar, masih ada telur dadar',
-        instagram: '@ameyazr',
-        images: '/images/members/camelia-siti.png'
-    },
-    {
-        name: 'Rini Haerlani',
-        quote: 'It seems like entering a new world is exciting',
-        instagram: '@riiinnff_',
-        images: '/images/members/rini-haerlani.png'
-    },
-    {
-        name: 'Gani Putri Pratiwi',
-        quote: 'Masuk kuping kanan, keluar bener bener diluar dugaan dan perkiraan',
-        instagram: '@gggptrii',
-        images: '/images/members/gani-putri.png'
-    },
-    {
-        name: 'Karina Renita',
-        quote: 'We’re used to feeling numb, but you know they ain’t got a shot on me',
-        instagram: '@karinarenitaa',
-        images: '/images/members/karina-renita.png'
-    },
-    {
-        name: 'Adelia T',
-        quote: 'Im not lookin for your attention, but youre lookin for my sour intention.',
-        instagram: '@abcdel.jpeg',
-        images: '/images/members/adelia-te.png'
-    },
-    {
-        name: 'Amelia Rosgiarti',
-        quote: 'Stay soft, life is hard.',
-        instagram: '@aamllr_',
-        images: '/images/members/amelia-rosgiartri.png'
-    },
-    {
-        name: 'M. Taufan AR',
-        quote: 'Bermimpilah besar dan berani gagal',
-        instagram: '@taufanabdl',
-        images: '/images/members/taufan-ar.png'
-    },
-    {
-        name: 'Angga Setiawan',
-        quote: 'Angga yang ini setia, Setiawan',
-        instagram: '',
-        images: '/images/members/angga-setiawan.png'
-    }
 ]
