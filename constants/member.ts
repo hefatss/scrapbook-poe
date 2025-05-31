@@ -2,14 +2,14 @@ export const MEMBERS = [
     {
         name: 'Agni Sopita',
         quote: 'jangan bandingkan langkahmu dengan orang lain, fokus saja pada perjalananmu',
-        instagram: '@',
+        instagram: '@agnii09_',
         images: '/images/members/agni.png'
     },
     {
         name: 'Ayu Maryamah',
-        quote: '',
-        instagram: '@',
-        images: '/images/members/'
+        quote: 'Jika tidak bisa menjadi orang baik, kamu bisa jadi orang gila',
+        instagram: '@ayyuma_',
+        images: '/images/members/ayu.png'
     },
     {
         name: 'Chindy Desita Julia Puspa',
@@ -38,7 +38,7 @@ export const MEMBERS = [
     {
         name: 'Nazzwa Azzahra',
         quote: "don't turn off my light then complain about my darkness",
-        instagram: '@',
+        instagram: '@alphiota._._',
         images: '/images/members/nazwa.png'
     },
     {
@@ -50,7 +50,7 @@ export const MEMBERS = [
     {
         name: 'Salsa Farida',
         quote: 'info loker',
-        instagram: '@',
+        instagram: '@slsafrda',
         images: '/images/members/salsa.png'
     },
     {
@@ -62,7 +62,7 @@ export const MEMBERS = [
     {
         name: 'Syifa Amalia',
         quote: '',
-        instagram: '@',
+        instagram: '@syifamaliash',
         images: '/images/members/syifa.png'
     },
     {
@@ -74,7 +74,7 @@ export const MEMBERS = [
     {
         name: 'Rinda Raiin',
         quote: 'Becanda boleh, serius apalagi Tapi boong HAHAHAHA 🤙',
-        instagram: '@',
+        instagram: '@rindiraiin00',
         images: '/images/members/rindi.png'
     },
     {
