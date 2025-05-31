@@ -1,5 +1,6 @@
 import React from 'react'
 import Hero from './_components/hero'
+import Instructor from './_components/instructor'
 import Members from './_components/members'
 import Gallery from './_components/gallery'
 import MusicPlayer from './_components/music_player'
@@ -9,9 +10,10 @@ const LandingPage = () => {
         <div className='min-h-[200vh] pt-20'>
             <div className='max-con max-sm:px-5'>
                 <Hero />
+                <Instructor />
                 <Members />
                 <Gallery />
-                <MusicPlayer/>
+                <MusicPlayer />
             </div>
         </div>
     )
