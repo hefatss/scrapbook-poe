@@ -103,7 +103,7 @@ export const MEMBERS = [
     },
     {
         name: 'Rafi Aji Saputra',
-        quote: 'JAWA JAWA JAWA JAWA, HIDUP JAWA',
+        quote: 'Katanya keras giliran di gas, sesak nafas',
         instagram: '@hefatss',
         images: '/images/members/rapi.png'
     },
