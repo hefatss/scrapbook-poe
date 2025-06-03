@@ -3,6 +3,7 @@ import Hero from './_components/hero'
 import Instructor from './_components/instructor'
 import Members from './_components/members'
 import Gallery from './_components/gallery'
+import Bonus from './_components/bonus'
 import MusicPlayer from './_components/music_player'
 
 const LandingPage = () => {
@@ -13,6 +14,7 @@ const LandingPage = () => {
                 <Instructor />
                 <Members />
                 <Gallery />
+                <Bonus />
                 <MusicPlayer />
             </div>
         </div>
