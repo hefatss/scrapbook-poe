@@ -28,27 +28,27 @@ const MusicPlayer = () => {
     return (
         <>
             <div
-                className={`bg-gradient-to-b from-[#f7f1d9] to-[#bbaa87] w-full h-full fixed top-0 left-0 z-50 flex flex-col items-center justify-center gap-3 transition-all duration-1000 ease-in-out ${firstClick ? 'top-[-100%]' : ''
+                className={`bg-gradient-to-b from-[#222831] to-[#31363F] w-full h-full fixed top-0 left-0 z-50 flex flex-col items-center justify-center gap-3 transition-all duration-1000 ease-in-out ${firstClick ? 'top-[-100%]' : ''
                     }`}>
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1, delay: 0.2 }}
-                    className='font-dmserif text-brown-700 text-2xl text-center -mb-3'>
+                    className='font-dmserif text-white text-2xl text-center -mb-3'>
                     Welcome to
                 </motion.div>
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1, delay: 0.3 }}
-                    className='uppercase font-dmserif text-brown-700 text-6xl text-center mb-5'>
+                    className='uppercase font-dmserif text-white text-6xl text-center mb-5'>
                     Practical Office Advance
                 </motion.div>
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1, delay: 0.3 }}
-                    className='bg-brown-100 px-10 py-3 rounded-full hover:bg-brown-300 cursor-pointer'
+                    className='bg-teal-100 px-10 py-3 rounded-full hover:bg-gray-400 cursor-pointer text-black'
                     onClick={togglePlay}>
                     Open Our Memory
                 </motion.div>
